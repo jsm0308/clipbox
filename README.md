@@ -37,7 +37,13 @@
 
 사고 판별을 포함한 **End-to-End 파이프라인**(전처리 → 수정 ResNet18 → LSTM → 임계값 분기 → 비식별화·MongoDB·Flask UI) 구조는 아래 도식과 같습니다. 웹 추론 경로에서는 슬라이딩 윈도우로 **100프레임** 단위 시퀀스(`T=100`)를 구성합니다.
 
-![Blackbox-Accident-Extractor 모델 아키텍처](./블랙박스%20모델%20아키텍쳐%20최종본.png)
+<p align="center">
+  <a href="https://raw.githubusercontent.com/jsm0308/clipbox_v0/main/%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4%20%EB%AA%A8%EB%8D%B8%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90%20%EC%B5%9C%EC%A2%85%EB%B3%B8.png" title="원본 해상도로 보기">
+    <img src="./블랙박스%20모델%20아키텍쳐%20최종본.png" alt="Blackbox-Accident-Extractor 모델 아키텍처" width="100%" />
+  </a>
+</p>
+
+<sub>이미지를 클릭하면 GitHub <code>raw</code>에서 원본 픽셀 그대로 열립니다.</sub>
 
 ---
 
