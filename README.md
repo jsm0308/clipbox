@@ -65,7 +65,7 @@
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/jsm0308/clipbox_v0/main/%EB%B8%94%EB%9E%99%EB%B0%95%EC%8A%A4.png" title="원본 해상도로 보기">
-    <img src="./블랙박스.png" alt="Blackbox-Accident-Extractor 모델 아키텍처" width="250%" />
+    <img src="./블랙박스.png" alt="Blackbox-Accident-Extractor 모델 아키텍처" width="300%" />
   </a>
 </p>
 <sub>이미지를 클릭하면 GitHub <code>raw</code>에서 원본 픽셀 그대로 열립니다.</sub>
